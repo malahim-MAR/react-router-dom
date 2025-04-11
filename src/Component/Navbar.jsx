@@ -46,7 +46,7 @@ const Navbar = () => {
                     style={{
                         textDecoration: 'none',
                         color: '#333',
-                        fontWeight: '600',
+                        fontWeight: '500',
                         fontSize: '18px',
                         transition: 'all 0.3s ease',
                         padding: '5px 10px',
@@ -62,7 +62,7 @@ const Navbar = () => {
                     style={{
                         textDecoration: 'none',
                         color: '#333',
-                        fontWeight: '600',
+                        fontWeight: '500',
                         fontSize: '18px',
                         transition: 'all 0.3s ease',
                         padding: '5px 10px',
@@ -78,7 +78,7 @@ const Navbar = () => {
                     style={{
                         textDecoration: 'none',
                         color: '#333',
-                        fontWeight: '600',
+                        fontWeight: '500',
                         fontSize: '18px',
                         transition: 'all 0.3s ease',
                         padding: '5px 10px',
@@ -94,7 +94,7 @@ const Navbar = () => {
                     style={{
                         textDecoration: 'none',
                         color: '#333',
-                        fontWeight: '600',
+                        fontWeight: '500',
                         fontSize: '18px',
                         transition: 'all 0.3s ease',
                         padding: '5px 10px',
